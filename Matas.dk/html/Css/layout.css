@@ -9,4 +9,7 @@
   float: left;
   padding: 14px 16px;
   text-decoration: none;
+  max-height: 30px;
+  margin-bottom: 0px;
+  line-height: 30px;
   }
