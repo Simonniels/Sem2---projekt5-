@@ -26,3 +26,33 @@ width:50%;
 .header_middle{
 	margin: auto;
 }
+.beauty-logo{
+margin: auto;
+width: 50%;
+height: auto;
+}
+.make-lady{
+	width: 100%;
+	height: auto;
+}
+.beauty-kategorier{
+	display: block;
+	width: 30%;
+	height: auto;
+	float: left;
+}
+
+.grid-container {
+  display: grid;
+	grid-template-columns: auto auto;
+}
+.quiz{
+	display: block;
+	width: 30%;
+	height: auto;
+	float: right;
+}
+.lolipop-lady{
+	width: 100%;
+	height: auto;
+}
