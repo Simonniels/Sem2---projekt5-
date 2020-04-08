@@ -1,3 +1,8 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 .topnav {
   background-color: ##fff;
   margin-top: 25px;
@@ -41,7 +46,7 @@ height: auto;
 }
 .beauty-kategorier{
 	display: block;
-	width: 45%;
+	width: 49%;
 	height: auto;
 	float: left;
 }
@@ -52,7 +57,7 @@ height: auto;
 }
 .quiz{
 	display: block;
-	width: 45%;
+	width: 49%;
 	height: auto;
 	float: right;
 }
