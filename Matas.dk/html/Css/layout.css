@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "elephantregular";
+    src: url("elephant_font_kit/elephnt-webfont.woff2") format("woff2"),
+         url("elephant_font_kit/elephnt-webfont.woff") format("woff");
+    font-weight: normal;
+	font-style: normal;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -21,6 +29,11 @@ html, body {
   margin-bottom: 0px;
   line-height: 30px;
   }
+.main-text{
+	font-family: "elephantregular";
+	font-weight:normal;
+	font-style:normal;
+}
 .menu-icon {
 margin-right: 1500px;
   }
@@ -45,6 +58,9 @@ height: auto;
 	height: auto;
 }
 .beauty-kategorier{
+	font-family: "elephantregular";
+	font-weight:normal;
+	font-style:normal;
 	display: block;
 	width: 49%;
 	height: auto;
@@ -56,6 +72,9 @@ height: auto;
 	grid-template-columns: auto auto;
 }
 .quiz{
+	font-family: "elephantregular";
+	font-weight:normal;
+	font-style:normal;
 	display: block;
 	width: 49%;
 	height: auto;
