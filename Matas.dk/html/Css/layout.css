@@ -27,5 +27,5 @@ width:50%;
   width: 100px;
 display: flex;
 flex-wrap:;
-position: left; 
+align-items: left; 
 }
