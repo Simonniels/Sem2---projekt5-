@@ -16,7 +16,7 @@
   line-height: 30px;
   }
 .menu-icon {
-margin-right: 2500px;
+margin-right: 2400px;
   }
 .mataslogo{
 margin: auto;
@@ -33,3 +33,7 @@ display: flex;
   margin-left: 100px;
 
 }
+
+.search {
+  margin-left: 100px;
+  }
