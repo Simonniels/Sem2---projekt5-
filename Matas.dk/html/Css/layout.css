@@ -1,7 +1,8 @@
 .topnav {
-  
   background-color: ##fff;
-  margin-top: 50px;
+  margin-top: 25px;
+  margin-left: 250px;
+  position: absolute;
   }
 
 .topnav a {
@@ -15,9 +16,8 @@
   margin-bottom: 0px;
   line-height: 30px;
   }
-
 .menu-icon {
-
+margin-right: 2300px;
   }
 .mataslogo{
 margin: auto;
@@ -25,7 +25,11 @@ width:50%;
 }
 .header_middle{
 	margin: auto;
+  margin-left: 10px;
+  width: 100px;
+display: flex;
 }
+
 .beauty-logo{
 margin: auto;
 width: 50%;
@@ -56,3 +60,13 @@ height: auto;
 	width: 100%;
 	height: auto;
 }
+
+
+.menu1 {
+  margin-left: 100px;
+
+}
+
+.search {
+  margin-left: 100px;
+  }
