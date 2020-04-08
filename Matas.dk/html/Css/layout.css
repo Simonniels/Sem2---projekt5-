@@ -25,5 +25,7 @@ width:50%;
 }
 .header_middle{
 	margin: auto;
-  width: 100px; 
+  width: 100px;
+display: flex;
+flex-wrap: 
 }
