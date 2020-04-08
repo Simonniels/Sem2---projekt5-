@@ -41,7 +41,7 @@ height: auto;
 }
 .beauty-kategorier{
 	display: block;
-	width: 30%;
+	width: 45%;
 	height: auto;
 	float: left;
 }
@@ -52,7 +52,7 @@ height: auto;
 }
 .quiz{
 	display: block;
-	width: 30%;
+	width: 45%;
 	height: auto;
 	float: right;
 }
