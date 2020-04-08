@@ -1,5 +1,5 @@
 .topnav {
-  
+
   background-color: ##fff;
   margin-top: 50px;
   }
@@ -25,4 +25,5 @@ width:50%;
 }
 .header_middle{
 	margin: auto;
+  width: 100px; 
 }
