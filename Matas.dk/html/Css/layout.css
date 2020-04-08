@@ -1,5 +1,5 @@
 .topnav {
-  
+
   background-color: ##fff;
   margin-top: 50px;
   }
@@ -15,7 +15,6 @@
   margin-bottom: 0px;
   line-height: 30px;
   }
-
 .menu-icon {
 
   }
@@ -25,4 +24,9 @@ width:50%;
 }
 .header_middle{
 	margin: auto;
+  margin-left: 10px; 
+  width: 100px;
+display: flex;
+flex-wrap:;
+
 }
