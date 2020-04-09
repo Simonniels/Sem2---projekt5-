@@ -52,6 +52,9 @@ width:50%;
   width: 100px;
 display: flex;
 }
+.active-page{
+display: center; 
+}
 
 .beauty-logo{
 margin: auto;
