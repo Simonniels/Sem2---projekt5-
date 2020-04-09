@@ -111,5 +111,13 @@ height: auto;
   height: 60px;
   text-align: center;
   font-size: 13px;
-  background-color: #000; 
+  background-color: #000;
+  }
+
+
+.matasbaggrundsbillede
+{
+  width: 200%;
+  height: 200%;
+
   }
