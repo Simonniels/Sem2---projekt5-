@@ -100,12 +100,14 @@ height: auto;
 }
 
 .menu1 {
-  margin-left: 100px;
+  margin-left: 10px;
+
 
 }
 
 .search {
-  margin-left: 100px;
+  margin-left: 10px;
+  padding-top: 5px;
   }
  footer{
   position: absolute;
