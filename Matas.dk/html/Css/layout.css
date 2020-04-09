@@ -1,0 +1,105 @@
+@font-face {
+    font-family: "elephantregular";
+    src: url("elephant_font_kit/elephnt-webfont.woff2") format("woff2"),
+         url("elephant_font_kit/elephnt-webfont.woff") format("woff");
+    font-weight: normal;
+	font-style: normal;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.topnav {
+  background-color: ##fff;
+  margin-top: 25px;
+  margin-left: 20px;
+  position: absolute;
+  }
+
+.topnav a {
+  color: #000000;
+  display: block;
+  text-align: center;
+  float: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  max-height: 30px;
+  margin-bottom: 0px;
+  line-height: 30px;
+  font-size: 14px;
+  }
+.main-text{
+	font-family: "elephantregular";
+	font-weight:normal;
+	font-style:normal;
+}
+.menu-icon {
+margin-right: 1500px;
+  }
+.mataslogo{
+margin: auto;
+width:50%;
+}
+.header_middle{
+	margin: auto;
+  margin-left: 10px;
+  width: 100px;
+display: flex;
+}
+
+.beauty-logo{
+margin: auto;
+width: 50%;
+height: auto;
+}
+.make-lady{
+	width: 100%;
+	height: auto;
+}
+.beauty-kategorier{
+	font-family: "elephantregular";
+	font-weight:normal;
+	font-style:normal;
+	display: block;
+	width: 49%;
+	height: auto;
+	float: left;
+}
+
+.grid-container {
+  display: grid;
+	grid-template-columns: auto auto;
+}
+.quiz{
+	font-family: "elephantregular";
+	font-weight:normal;
+	font-style:normal;
+	display: block;
+	width: 49%;
+	height: auto;
+	float: right;
+}
+.lolipop-lady{
+	width: 100%;
+	height: auto;
+}
+.main-matas-beauty{
+	max-width: 960px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-top: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+}
+
+.menu1 {
+  margin-left: 100px;
+
+}
+
+.search {
+  margin-left: 100px;
+  }
