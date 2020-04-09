@@ -18,8 +18,8 @@ html, body {
 
 .topnav {
   background-color: ##fff;
-  margin-top: 25px;
-  margin-left: 20px;
+  margin-top: 15px;
+  margin-left: 160px;
   }
 
 .topnav a {
@@ -51,6 +51,9 @@ width:50%;
   margin-left: 10px;
   width: 100px;
 display: flex;
+}
+.mataslogo{
+padding-left: 100px;
 }
 
 .beauty-logo{
@@ -101,12 +104,14 @@ height: auto;
 }
 
 .menu1 {
-  margin-left: 100px;
+  margin-left: 10px;
+
 
 }
 
 .search {
-  margin-left: 100px;
+  margin-left: 10px;
+  padding-top: 15px;
   }
  footer{
   text-align: center;
