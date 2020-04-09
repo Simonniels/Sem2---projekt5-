@@ -17,8 +17,8 @@ html, body {
 
 .topnav {
   background-color: ##fff;
-  margin-top: 25px;
-  margin-left: 20px;
+  margin-top: 15px;
+  margin-left: 50px;
   position: absolute;
   }
 
@@ -120,9 +120,3 @@ height: auto;
   background-color: #000;
   color: white;
   }
-
-
-.matasbaggrundsbillede
-{
-  width: 200%;
-  height: 200%;
