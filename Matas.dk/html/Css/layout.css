@@ -11,6 +11,7 @@
 }
 
 html, body {
+	height: 100%;
     max-width: 100%;
     overflow-x: hidden;
 }
@@ -19,7 +20,6 @@ html, body {
   background-color: ##fff;
   margin-top: 25px;
   margin-left: 20px;
-  position: absolute;
   }
 
 .topnav a {
@@ -91,12 +91,13 @@ height: auto;
 }
 .main-matas-beauty{
 	max-width: 960px;
+	min-height: 100%;
 	padding-right: 10px;
 	padding-left: 10px;
 	margin-top: 10%;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: auto;
+	margin-bottom: 20px;
 }
 
 .menu1 {
@@ -108,16 +109,16 @@ height: auto;
   margin-left: 100px;
   }
  footer{
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
   text-align: center;
   font-size: 13px;
   background-color: #000;
   color: white;
+  margin-top: 0px;
   }
+.push{
+	height: 20px;
+	display: block;
+}
 
 
 .matasbaggrundsbillede
