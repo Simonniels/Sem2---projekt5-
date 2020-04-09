@@ -109,14 +109,16 @@ height: auto;
   margin-left: 10px;
   padding-top: 5px;
   }
-  .footer{
-  overflow: hidden;
-  position: fixed;
+ footer{
+  position: absolute;
+  right: 0;
   bottom: 0;
-  width: 100%;
+  left: 0;
+  padding: 1rem;
   text-align: center;
   font-size: 13px;
   background-color: #000;
+  color: white;
   }
 
 
