@@ -114,6 +114,7 @@ height: auto;
   padding-top: 15px;
   }
  footer{
+  height: 100px;
   text-align: center;
   font-size: 13px;
   background-color: #000;
