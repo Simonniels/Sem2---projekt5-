@@ -74,6 +74,9 @@ height: auto;
 	height: auto;
 	float: left;
 }
+.main-matas-beauty{
+text-decoration: none;
+}
 
 .grid-container {
   display: grid;
