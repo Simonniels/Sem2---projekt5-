@@ -74,13 +74,12 @@ height: auto;
 	height: auto;
 	float: left;
 }
-.beauty-kategorier{
-text-decoration: none;
-}
+
 
 .grid-container {
   display: grid;
 	grid-template-columns: auto auto;
+  text-decoration: none;
 }
 .quiz{
 	font-family: "elephantregular";
