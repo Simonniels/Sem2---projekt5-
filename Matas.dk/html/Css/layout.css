@@ -82,7 +82,7 @@ height: auto;
 }
 .grid-container a{
     text-decoration: none;
-    text-decoration-color: black:
+    color: inherit;
 }
 .quiz{
 	font-family: "elephantregular";
