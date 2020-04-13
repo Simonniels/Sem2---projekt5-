@@ -79,7 +79,9 @@ height: auto;
 .grid-container {
   display: grid;
 	grid-template-columns: auto auto;
-  text-decoration: none;
+}
+.grid-container a{
+    text-decoration: none;
 }
 .quiz{
 	font-family: "elephantregular";
