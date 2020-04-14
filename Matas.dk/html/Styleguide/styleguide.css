@@ -24,12 +24,12 @@ body {
 }
 
 .header a:hover {
-  background-color: blue;
+  background-color: #8C1419;
   color: white;
 }
 
 .header a.active {
-  background-color: Green;
+  background-color: #8C1419;
   color: white;
 }
 
