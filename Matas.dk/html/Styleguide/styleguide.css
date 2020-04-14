@@ -100,3 +100,10 @@ margin-left: 100px;
     color: white;
     border-radius: 50%;
   }
+
+.farver img
+{
+width: 70px;
+height: 70px;
+margin-left: 10px;
+  }
