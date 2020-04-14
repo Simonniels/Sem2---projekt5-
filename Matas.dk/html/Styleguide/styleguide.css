@@ -70,3 +70,33 @@ height: 70px;
 margin-left: 100px;
 
   }
+
+
+
+  .fa {
+    padding: 12px;
+    font-size: 30px;
+    width: 12px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+    }
+
+    .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 50%;
+  }
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 50%;
+  }
