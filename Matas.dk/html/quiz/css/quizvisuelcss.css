@@ -100,7 +100,7 @@ body{
     margin-left: -170%;
     margin-right: -15%;
     margin-top: -2%;
-    margin-bottom: -2%; 
+    
 }
 
 .age6-img:hover{
@@ -113,6 +113,51 @@ body{
     margin-left: -120%; 
     margin-right: 0%; 
 }
+
+.textage {
+  color: white;
+  font-size: 35px;
+    margin-left: -65%; 
+    margin-top: 5%; 
+}
+
+.textage2 {
+  color: white;
+  font-size: 35px;
+    margin-left: 5%; 
+    margin-top: 27%;
+    margin-bottom: -20%;
+}
+
+.textage3 {
+  color: white;
+  font-size: 35px;
+    margin-left: 9%; 
+    margin-top: 10%; 
+}
+
+.textage4 {
+  color: white;
+  font-size: 35px;
+    margin-left: 8%; 
+    margin-top: 17%; 
+}
+
+.textage5 {
+  color: white;
+  font-size: 35px;
+    margin-left: 7%; 
+    margin-top: 23%; 
+}
+
+.textage6 {
+  color: white;
+  font-size: 35px;
+    margin-left: 9%; 
+    margin-top: 9%; 
+}
+
+
 
 .work1-img{
      width: 66%;  
@@ -309,7 +354,6 @@ body{
   font-size: 55px;
     margin-left: -61%; 
     margin-top: 1.5%; 
-
 }
 
 
